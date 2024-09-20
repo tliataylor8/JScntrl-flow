@@ -117,3 +117,59 @@
 // }
 // => You can buy a cat and will have dollars left over
 
+// Switch Statement 
+
+// const food = 'apple';
+
+// switch(food){
+//     case 'pear':
+//         console.log('I like pears');
+//         break;
+//     case 'apple':
+//         console.log('I like apples');
+//         break;
+//     case 'orange':
+//         console.log('I like oranges');
+//         break;
+//     default:
+//         console.log('idk what that is');
+// }
+//=> I like apples
+
+// const food = 'spinach';
+
+// switch(food){
+//     case 'pear':
+//         console.log('I like pears');
+//         break;
+//     case 'apple':
+//         console.log('I like apples');
+//         break;
+//     case 'orange':
+//         console.log('I like oranges');
+//         break;
+//     default:
+//         console.log('idk what that is');
+// }
+//=> idk what that is
+
+// Ternery operator
+// (condition) ? iftrue : iffalse
+ 
+// const age = 12
+// let allowed; 
+
+// if (age > 18) {
+//     allowed = 'yes'
+// } else {
+//     allowed = 'no'
+// }
+
+// console.log(allowed)
+// => no
+
+// const age = 12
+// const allowed = (age > 18) ? 'yes':'no'
+// console.log(allowed, 'inside the ternery operator')
+// => no inside the ternery operator
+
